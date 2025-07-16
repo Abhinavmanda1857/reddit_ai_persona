@@ -1,0 +1,71 @@
+# User Persona: u/kojied
+
+## Profile Summary
+- **Age:** 25-35 (Medium Confidence).  While there's no explicit age mention, the user's discussions about career (e.g., work in environmental consulting [Source: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/]),  financial situations (options trading [Source: https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/],  50k transfers [Source: https://www.reddit.com/r/Webull/comments/flf90r/50k_at_a_time/]), and references to having been an H1B visa holder [Source: https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/] suggest someone who is likely past their early twenties and likely not yet in a very senior career position.
+- **Occupation:**  Likely works in environmental consulting or a related field. [Source: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/]  Also engages in options trading as a side hustle or hobby. [Source: https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/]  Former H1B visa holder. [Source: https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/]
+- **Location:** New York City.  The user frequently comments in NYC-related subreddits (r/FoodNYC, r/AskNYC, r/nycrail, r/NYCbike). [Source: https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/, https://www.reddit.com/r/AskNYC/comments/1iypf3t/just_laid_off_what_daytime_nyc_stuff_should_i_do/, https://www.reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/, https://www.reddit.com/r/NYCbike/comments/16n85uj/informative_documentary_video_on_youtube/ ]  Also mentions living in NYC for three years. [Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/]
+- **Status:** Information not available in provided data.
+- **Archetype:** The Analyst. The user displays a strong analytical approach in various contexts, from game strategies [Source: https://www.reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/] to financial markets [Source: https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/], to interpreting historical context [Source: https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/].
+
+
+---
+
+## "I want to..."
+> "...understand and optimize my strategies in games and investments, and contribute insightful observations to online communities."
+
+
+---
+
+## Personality (MBTI-Style Inference)
+*(Based on their communication style, topic choices, and interactions)*
+- **Introvert / Extrovert:** `Introvert (60) <---> (40) Extrovert`. The user actively participates in online discussions, but the style is more analytical and less about social interaction.
+- **Intuition / Sensing:** `Intuition (70) <---> (30) Sensing`. The user often engages with abstract concepts and long-term planning (e.g., options trading, game strategies, ESG analysis).
+- **Thinking / Feeling:** `Thinking (75) <---> (25) Feeling`.  The user prioritizes logic and analysis over emotional responses in their posts and comments.
+- **Perceiving / Judging:** `Perceiving (60) <---> (40) Judging`. The user seems flexible and adaptable based on the varied topics discussed, yet shows some planning aspects in their investment and game strategies.
+
+
+---
+
+## Motivations
+*(Rate each as High, Medium, Low, or N/A based on their posts. Add citations.)*
+- **Convenience:** Medium [Source:  Numerous comments regarding game optimization and efficiency suggest a motivation for convenience in gameplay (Manor Lords comments)].
+- **Wellness / Health:** Low [Source:  No direct mentions related to personal wellness.]
+- **Learning / Knowledge:** High [Source:  Active participation in subreddits focused on learning about specific topics (ChatGPT, VisionOS, One Piece, etc.) and showing an interest in in-depth analysis and problem-solving across different domains].
+- **Community / Connection:** Medium [Source: Active participation across several subreddits; however, engagement appears more task-oriented and less focused on purely social connections.]
+- **Entertainment:** Medium [Source:  Engagement with subreddits related to gaming, anime (One Piece), and movies suggests a drive for entertainment, although it often overlaps with learning and analysis.]
+
+
+---
+
+## Behaviour & Habits
+*(List specific, observable behaviors as bullet points. Add citations.)*
+- Actively participates in discussions across various subreddits, offering insightful and analytical comments. [Source:  Many comments across different subreddits.]
+- Seeks out information and solutions to problems, especially within the context of games and investments. [Source:  Comments in Manor Lords, Civ V, and finance-related subreddits]
+- Engages in strategic planning and optimization within the scope of games and financial activities. [Source:  Comments on Manor Lords strategy, Civ V strategy, and options trading]
+- Demonstrates a proactive approach to sharing knowledge and offering help to others, especially when asked.  [Source:  Many comments offer advice or explanations to other users.]
+- Shows an interest in current events, technology, and pop culture, and integrates such interests in their online presence. [Source: posts and comments that cover several different subjects].
+
+
+---
+
+## Goals & Needs
+*(List the user's explicit or implicit goals. What are they trying to achieve? Add citations.)*
+- To improve their understanding and performance in games they play. [Source: Frequent comments in game-related subreddits such as Manor Lords and Civ V]
+- To optimize investment strategies and maximize returns in options trading. [Source: Comments and posts on options trading and financial markets.]
+- To contribute to online communities by sharing knowledge and insights. [Source: Numerous comments providing helpful advice and information to other users.]
+- To stay informed about current events and trends in different fields (technology, pop culture, etc.). [Source: User's posts across various subreddits.]
+
+
+---
+
+## Frustrations / Pain Points
+*(List challenges, complaints, or problems the user has mentioned. Add citations.)*
+- Inconsistent referee calls and excessive advertising in NBA games. [Source: https://www.reddit.com/r/warriors/comments/1hnckfr/daily_discussion_thread_december_27_2024/m45d3eq/]
+- Lack of late-game content in Manor Lords. [Source: https://www.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/]
+- Difficulty maintaining consistent character consistency in AI-generated videos. [Source: https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/]
+- High latency in using Mac virtual display with Vision Pro. [Source: https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/]
+- The perceived lack of innovation and interest in the NFT market. [Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/]
+- Inconsistent and slow response times of ChatGPT voice mode. [Source: https://www.reddit.com/r/ChatGPT/comments/1hh2q9r/voice_mode_has_been_brutally_nerfed/m2nxxav/]
+
+
+---
